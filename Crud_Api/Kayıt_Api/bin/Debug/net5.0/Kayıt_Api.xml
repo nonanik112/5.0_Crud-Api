@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Kayıt_Api</name>
+    </assembly>
+    <members>
+        <member name="M:Kayıt_Api.Controllers.KayıtController.Get">
+            <summary>
+            Get All Kayit
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Kayıt_Api.Controllers.KayıtController.Get(System.Int32)">
+            <summary>
+            Get By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kayıt_Api.Controllers.KayıtController.Post(Kayıt_Entities.Kayıt)">
+            <summary>
+            Create an Kayit
+            </summary>
+            <param name="kayıt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kayıt_Api.Controllers.KayıtController.Put(Kayıt_Entities.Kayıt)">
+            <summary>
+            Update the Kayit
+            </summary>
+            <param name="kayıt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kayıt_Api.Controllers.KayıtController.Delete(System.Int32)">
+            <summary>
+            Delete the Kayit
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

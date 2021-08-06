@@ -1,0 +1,12 @@
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\bin\Debug\net5.0\Kayıt_Entities.deps.json
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\bin\Debug\net5.0\Kayıt_Entities.dll
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\bin\Debug\net5.0\ref\Kayıt_Entities.dll
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\bin\Debug\net5.0\Kayıt_Entities.pdb
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\obj\Debug\net5.0\Kayıt_Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\obj\Debug\net5.0\Kayıt_Entities.AssemblyInfoInputs.cache
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\obj\Debug\net5.0\Kayıt_Entities.AssemblyInfo.cs
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\obj\Debug\net5.0\Kayıt_Entities.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\obj\Debug\net5.0\Kayıt_Entities.dll
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\obj\Debug\net5.0\ref\Kayıt_Entities.dll
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\obj\Debug\net5.0\Kayıt_Entities.pdb
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Entities\obj\Debug\net5.0\Kayıt_Entities.csproj.AssemblyReference.cache

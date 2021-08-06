@@ -1,0 +1,17 @@
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\obj\Debug\net5.0\Kayıt_Business.csproj.AssemblyReference.cache
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\obj\Debug\net5.0\Kayıt_Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\obj\Debug\net5.0\Kayıt_Business.AssemblyInfoInputs.cache
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\obj\Debug\net5.0\Kayıt_Business.AssemblyInfo.cs
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\obj\Debug\net5.0\Kayıt_Business.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\bin\Debug\net5.0\Kayıt_Business.deps.json
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\bin\Debug\net5.0\Kayıt_Business.dll
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\bin\Debug\net5.0\ref\Kayıt_Business.dll
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\bin\Debug\net5.0\Kayıt_Business.pdb
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\bin\Debug\net5.0\Data_Access.dll
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\bin\Debug\net5.0\Kayıt_Entities.dll
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\bin\Debug\net5.0\Data_Access.pdb
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\bin\Debug\net5.0\Kayıt_Entities.pdb
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\obj\Debug\net5.0\Kayıt_Business.csproj.CopyComplete
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\obj\Debug\net5.0\Kayıt_Business.dll
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\obj\Debug\net5.0\ref\Kayıt_Business.dll
+D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Business\obj\Debug\net5.0\Kayıt_Business.pdb

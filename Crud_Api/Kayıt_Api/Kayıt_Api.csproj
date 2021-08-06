@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Version>5.0.0</Version>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\Belgelerim\Karışık\Masa Üstü\Hard C#\Crud_Api\Kayıt_Api\Kayıt_Api.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NSwag.AspNetCore" Version="13.12.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kayıt_Business\Kayıt_Business.csproj" />
+    <ProjectReference Include="..\Kayıt_Entities\Kayıt_Entities.csproj" />
+  </ItemGroup>
+
+</Project>
